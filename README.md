@@ -1,2 +1,2 @@
-# SprintingSnail.github.io
- My personal website. 
+# My personal website.
+Nothing much lol
